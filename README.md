@@ -1,8 +1,8 @@
-# Paddle-Mobile
+# Paddle-Lite
 
 The development of new version folder is fluid.
 
-MDL renamed the paddle-mobile and move to PaddlePaddle org. We will release a lite version of the paddle fluid for mobile device. 
+MDL renamed the paddle-lite and move to PaddlePaddle org. We will release a lite version of the paddle fluid for mobile device. 
 
 # Mobile-deep-learning（MDL） 
 
